@@ -1,1 +1,0 @@
-C:\Users\henne\OneDrive\Documents\DS210\tater\MyProj\target\debug\MyProj.exe: C:\Users\henne\OneDrive\Documents\DS210\tater\MyProj\src\file_reader.rs C:\Users\henne\OneDrive\Documents\DS210\tater\MyProj\src\graph_analysis.rs C:\Users\henne\OneDrive\Documents\DS210\tater\MyProj\src\main.rs
